@@ -14,3 +14,4 @@
 > 
 > 07 script to built multivariate logistic model
 > 
+> 08 script to perform C1/C2 classifier
